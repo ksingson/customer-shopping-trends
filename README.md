@@ -93,15 +93,15 @@ Original Data Source: [Customer Shopping Trends Dataset](https://www.kaggle.com/
 ### 🛍️ Product Performance
 
 * Clothing is the highest-performing category.
-* A small group of products (e.g., shirts, pants, jackets) contributes a large portion of total revenue.
+* A small group of products (e.g., blouse, shirt, dress) contributes a large portion of total revenue.
 
 ### 📅 Seasonal Trends
 
-* Sales peak during the **Spring season**, indicating strong seasonal demand.
+* Sales peak during the **Fall season**, indicating strong seasonal demand.
 
 ### 👥 Customer Behavior
 
-* Most customers fall within the **26–50 age group**.
+* Most customers fall within the **50+ age group**.
 * Purchases are typically made **every few months**, indicating low purchase frequency.
 
 ### 🔁 Customer Loyalty
@@ -110,7 +110,7 @@ Original Data Source: [Customer Shopping Trends Dataset](https://www.kaggle.com/
 
 ### 🚚 Delivery & Payment Preferences
 
-* **Free shipping** is the most preferred delivery option.
+* **Express shipping** is the most preferred delivery option.
 * Customers favor **credit cards and digital payment methods**.
 
 ### 🎯 Marketing Opportunity
@@ -121,8 +121,8 @@ Original Data Source: [Customer Shopping Trends Dataset](https://www.kaggle.com/
 
 ## 💡 Business Recommendations
 
-* **Focus on Top Products:** Increase inventory for high-performing items such as shirts, pants, and jackets.
-* **Leverage Seasonality:** Prepare inventory and marketing campaigns ahead of peak seasons (especially Spring).
+* **Focus on Top Products:** Increase inventory for high-performing items such as blouse, shirt, and dress.
+* **Leverage Seasonality:** Prepare inventory and marketing campaigns ahead of peak seasons (especially Fall).
 * **Increase Purchase Frequency:** Introduce loyalty programs, reminders, or subscription-based offers.
 * **Optimize Shipping Strategy:** Offer free shipping thresholds to encourage higher spending.
 * **Enhance Marketing Efforts:** Promote discounts and encourage customer subscriptions to boost engagement.
@@ -132,7 +132,11 @@ Original Data Source: [Customer Shopping Trends Dataset](https://www.kaggle.com/
 
 ## 📷 Dashboard Preview
 
-*(You can insert screenshots of your dashboard here)*
+![Overview](images/shopping-overview.png)
+
+![Product Analysis](images/shopping-product.png)
+
+![Behavior](images/shopping-cb.png)
 
 ---
 
@@ -144,7 +148,22 @@ Original Data Source: [Customer Shopping Trends Dataset](https://www.kaggle.com/
 
 ---
 
-## ✨ Author
+## 📌 Future Improvements
+
+* Enhance dashboard visuals by familiarizing with more dax formula for formatting
+* Automate data refresh pipeline
+* Add forecasting and trend projection models
+  
+---
+
+## 👤 Author
+
+**Kim Singson**
+
+
+Aspiring Data Analyst
+
+---
 
 Created as part of a data analytics portfolio project to demonstrate skills in:
 
