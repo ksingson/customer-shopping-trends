@@ -103,6 +103,7 @@ Original Data Source: [Customer Shopping Trends Dataset](https://www.kaggle.com/
 ### 👥 Customer Behavior
 
 * Most customers fall within the **50+ age group**.
+* There are more **male customers than females**.
 * Purchases are typically made **every few months**, indicating low purchase frequency.
 
 ### 🔁 Customer Loyalty
@@ -125,6 +126,7 @@ Original Data Source: [Customer Shopping Trends Dataset](https://www.kaggle.com/
 * **Focus on Top Products:** Increase inventory for high-performing items such as blouse, shirt, and dress.
 * **Leverage Seasonality:** Prepare inventory and marketing campaigns ahead of peak seasons (especially Fall).
 * **Increase Purchase Frequency:** Introduce loyalty programs, reminders, or subscription-based offers.
+* **Grow Audience:** Aim to expand product variety to target **female customers**. 
 * **Optimize Shipping Strategy:** Offer free shipping thresholds to encourage higher spending.
 * **Enhance Marketing Efforts:** Promote discounts and encourage customer subscriptions to boost engagement.
 
@@ -151,7 +153,7 @@ Original Data Source: [Customer Shopping Trends Dataset](https://www.kaggle.com/
 
 ## 📌 Future Improvements
 
-* Enhance dashboard visuals by familiarizing with more dax formula for formatting
+* Enhance dashboard visuals by exploring Power BI and/or familiarizing with DAX formula for formatting
 * Automate data refresh pipeline
 * Add forecasting and trend projection models
   
