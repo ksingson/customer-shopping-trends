@@ -95,6 +95,7 @@ Original Data Source: [Customer Shopping Trends Dataset](https://www.kaggle.com/
 
 * Clothing is the highest-performing category.
 * A small group of products (e.g., blouse, shirt, dress) contributes a large portion of total revenue.
+* Most bought products in size **M**.
 
 ### 📅 Seasonal Trends
 
@@ -125,6 +126,7 @@ Original Data Source: [Customer Shopping Trends Dataset](https://www.kaggle.com/
 
 * **Focus on Top Products:** Increase inventory for high-performing items such as blouse, shirt, and dress.
 * **Leverage Seasonality:** Prepare inventory and marketing campaigns ahead of peak seasons (especially Fall).
+* **Inventory Management:** Make sure that products in size **M** has enough stocks.
 * **Increase Purchase Frequency:** Introduce loyalty programs, reminders, or subscription-based offers.
 * **Grow Audience:** Aim to expand product variety to target **female customers**. 
 * **Optimize Shipping Strategy:** Offer free shipping thresholds to encourage higher spending.
