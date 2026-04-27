@@ -82,6 +82,7 @@ Original Data Source: [Customer Shopping Trends Dataset](https://www.kaggle.com/
 
 * Customer Distribution by Age Group
 * Customer Loyalty Segmentation
+* Customer Gender Distribution
 * Purchase Frequency Distribution
 * Payment Method Distribution
 * Delivery Preferences
